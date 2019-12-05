@@ -217,7 +217,7 @@ export default {
             handler() {
                 let tags = _.flatMap(this.selected.tag, (selected, tag) => (selected ? [tag] : []));
                 if (tags.length > 6) {
-                    new this.$root.Mdui.alert('最多只能同时选择 6 个词条噢！', null, null, {
+                    new this.$root.Mdui.alert('最多只能同时选择 6 个词条喔！', null, null, {
                         confirmText: '好吧',
                         history: false,
                     });
@@ -345,7 +345,7 @@ export default {
                     tagCount++;
                     if (tagCount > 6) {
                         sb.close();
-                        snackbar({ message: '识别词条超出6个，仅取前6个' });
+                        snackbar({ message: '词条数量超出限制，仅取前6个' });
                         return;
                     }
                     this.selected.tag[word] = true;
