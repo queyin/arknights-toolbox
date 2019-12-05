@@ -2,9 +2,9 @@
     <div class="mdui-row mdui-typo mdui-center" style="max-width: 1012px;">
         <div class="mdui-col-xs-12">
             <h1 class="mdui-m-t-0">明日方舟工具箱</h1>
-            <p>Github: <a href="https://github.com/ocsp/arknights-toolbox" target="_blank">Nagi/arknights-toolbox</a></p>
+            <p>Github: <a href="https://github.com/ocsp/arknights-toolbox" target="_blank">ocsp/arknights-toolbox</a></p>
             <p>宗旨是简洁美观且对移动设备友好，以及 Material Design 天下第一（。）</p>
-            <p>如果有好的想法、建议、希望增加的功能，或者发现了 BUG，欢迎到项目中提 <a href="https://github.com/ocsp/arknights-toolbox/issues" target="_blank">issue</a> 或Pull Request</p>
+            <p>如果有好的想法、建议、希望增加的功能，或者发现了 BUG，欢迎到项目中提 <a href="https://github.com/ocsp/arknights-toolbox/issues" target="_blank">Issue</a> 或 Pull Request</p>
             <h2>添加到主屏幕</h2>
             <p>可将本工具箱添加到主屏幕作为 APP 在离线环境下使用</p>
             <p>若您是首次打开，可能需要等待所有资源缓存完毕后才能添加</p>
