@@ -19,7 +19,7 @@
                         <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-pink-accent mdui-m-b-2" @click="$root.installPWA" :disabled="$root.deferredPrompt===false">添加到主屏幕</button>
                         <p>请尝试点击（如果可点击的话）</p>
                         <h4 class="h-ul">Windows - Chrome</h4>
-                        <p>点击浏览器右上方的<i class="mdui-icon material-icons">more_vert</i>按钮，选择<code>安装“明日方舟工具箱 - by 神代綺凜”</code></p>
+                        <p>点击浏览器右上方的<i class="mdui-icon material-icons">more_vert</i>按钮，选择<code>安装“明日方舟工具箱”</code></p>
                         <h4 class="h-ul">Android - Chrome</h4>
                         <p>点击浏览器右上方的<i class="mdui-icon material-icons">more_vert</i>按钮，选择<code>添加到主屏幕</code></p>
                         <h4 class="h-ul">iOS ≥ 11.3</h4>
