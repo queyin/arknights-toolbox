@@ -2,7 +2,7 @@
     <div class="mdui-row mdui-typo mdui-center" style="max-width: 1012px;">
         <div class="mdui-col-xs-12">
             <h1 class="mdui-m-t-0">明日方舟工具箱</h1>
-            <p>Github: <a href="https://github.com/niksend/Tool-Box" target="_blank">ocsp/arknights-toolbox</a></p>
+            <p>Github: <a href="https://github.com/niksend/Tool-Box" target="_blank">Niksend/arknights-toolbox</a></p>
             <p>宗旨是简洁美观且对移动设备友好，以及 Material Design 天下第一（。）</p>
             <p>如果有好的想法、建议、希望增加的功能，或者发现了 BUG，欢迎到项目中提 <a href="https://nai.netlify.com" target="_blank">Issue</a> 或 Pull Request</p>
             <h2>添加到主屏幕</h2>
