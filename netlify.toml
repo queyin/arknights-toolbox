@@ -2,10 +2,10 @@
   from = "http://mrfz.xyz/*"
   to = "https://mrfz.xyz"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "https://arkn.netlify.com"
   to = "https://mrfz.xyz"
   status = 301
-  force = false
+  force = true
