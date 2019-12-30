@@ -3,7 +3,7 @@
         <div class="mdui-col-xs-12">
             <h1 class="mdui-m-t-0">明日方舟工具箱</h1>
             <p>Github: <a href="https://github.com/niksend/Tool-Box" target="_blank">Niksend/arknights-toolbox</a></p>
-            <p>宗旨是简洁美观且对移动设备友好，以及 Material Design 天下第一（。）</p>
+            <p>灰猫大大的工具箱 <a href="https://akcn.mrfz.xyz/?origin">明日方舟工具箱 by 一只灰猫</p>
             <p>如果有好的想法、建议、希望增加的功能，或者发现了 BUG，欢迎发送 <a href="mailto:im@amanohina.com">邮件</a></p>
             <p>境内访问优化版请戳 <a href="https://cn.mrfz.xyz/?origin">这里</a> 或前往 <a href="https://hk.mrfz.xyz/?origin">hk.mrfz.xyz<a></p>
             <h2>添加到主屏幕</h2>
